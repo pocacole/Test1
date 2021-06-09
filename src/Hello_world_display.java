@@ -4,5 +4,6 @@ public class Hello_world_display {
 		System.out.println("Hello World");
 		System.out.println("Hi World");
 		System.out.println("add1");
+		System.out.println("add2");
 	}
 }
